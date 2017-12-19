@@ -1,0 +1,7 @@
+Copyright (c) 2017 treyzania
+
+If your name isn't Grant Palmer, then you can do anything you want with this
+code as long as you don't want to make any money off of it.
+
+If your name *is* Grant Palmer, then you can't do anything with it other than
+read it.
